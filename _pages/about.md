@@ -33,7 +33,7 @@ Awards & Honors
 Skills
 ======
 - Programming: Python, C/C++, Linux
-- Other: MATLAB, Adobe, etc.
+- Others: MATLAB, Adobe, etc.
 
 
 More Info
