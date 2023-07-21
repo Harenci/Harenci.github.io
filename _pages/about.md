@@ -38,4 +38,4 @@ Skills
 
 More Info
 ======
-I'm not a typical 'science geek'. Besides of the science research, in my spare time, I'm so into drama, music and literature. I've ever published one of my proses on a published publication and I enjoy discovering my life by writing stories and expressing my feelings by playing music. I'm always happy to make friends with those interesting and friendly guys and I'm looking forward to have a good time with you, if possible! :D
+I'm not a 'typical researcher'. Besides of the science research, in my spare time, I'm so into drama, music and literature. I've ever published one of my proses on a published publication and I enjoy discovering my life by writing stories and expressing my feelings by playing music. I'm always happy to make friends with those interesting and friendly guys and I'm looking forward to have a good time with you, if possible! :D
