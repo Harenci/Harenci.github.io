@@ -37,5 +37,5 @@ Awards & Honors
 
 More Info
 ======
-Explorer||Enjoy Reading & Challenge.  
+Explorer || Enjoy Reading&Challenge.  
 Always happy to make friends with those interesting and friendly guys! :D
