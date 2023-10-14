@@ -22,6 +22,10 @@ Education
 
 Awards & Honors
 ======
+- National Encouragement Scholarship(2023)
+- Comprehensive Excellent Award of Tsinghua University(2023)
+- Outstanding academic Award of Tsinghua University(2023)
+- Excellent Social Work Award of Tsinghua University(2023)
 - National Encouragement Scholarship(2022)
 - Excellent Social Work Award of Tsinghua University(2022)
 - Silver Award Detachment of Social Practice(serve as captain)(2022)
@@ -38,4 +42,4 @@ Skills
 
 More Info
 ======
-I'm not a 'typical researcher'. Besides of the science research, in my spare time, I'm so into drama, music and literature. I've ever published one of my proses on a published publication and I enjoy discovering my life by writing stories and expressing my feelings by playing music. I'm always happy to make friends with those interesting and friendly guys and I'm looking forward to have a good time with you, if possible! :D
+Enjoying Reading & Challenge. Always happy to make friends with those interesting and friendly guys! :D
