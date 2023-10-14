@@ -34,12 +34,8 @@ Awards & Honors
 - Excellent Art and culture Award of Tsinghua University(2021)
 
 
-Skills
-======
-- Programming: Python, C/C++, Linux
-- Others: MATLAB, Adobe, etc.
-
 
 More Info
 ======
-Enjoying Reading & Challenge. Always happy to make friends with those interesting and friendly guys! :D
+Explorer||Enjoy Reading & Challenge.  
+Always happy to make friends with those interesting and friendly guys! :D
