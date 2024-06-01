@@ -10,28 +10,21 @@ redirect_from:
 
 Welcome to my personal website!
 
-I'm currently a senior undergraduate student from [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). In September 2024, I will be a PhD student in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](http://osslab-pku.org/).    
-
-My research interest includes open source digital sociology, AI4SE, etc.
+I'm currently a Ph.D. Student in Computer Science at Peking University, advised by [Minghui Zhou](https://minghuizhou.github.io/). Before this, I graduated from Tsinghua University and earned my Bachelor's degree in Automation. I'm interested in looking into the process of Software development and explore fancy ways to simplify it, as well as comprehensively understanding the complex relationships between developers(humans). Roughly speaking, my research interest includes open source digital sociology, AI4SE, etc.
 
 
 Education
 ======
-- B.S. in Automation, Tsinghua University, 2020-2024(expected).
+- B.S. in Automation, Tsinghua University, 2020-2024.
+- Ph.D. Student in Computer Science, Peking University, 2024-Now.
 
 
 Awards & Honors
 ======
-- National Encouragement Scholarship(2023)
-- Comprehensive Excellent Award of Tsinghua University(2023)
-- Outstanding academic Award of Tsinghua University(2023)
-- Excellent Social Work Award of Tsinghua University(2023)
-- National Encouragement Scholarship(2022)
-- Excellent Social Work Award of Tsinghua University(2022)
-- Silver Award Detachment of Social Practice(serve as captain)(2022)
-- National Encouragement Scholarship(2021)
-- Excellent Social Work Award of Tsinghua University(2021)
-- Excellent Art and culture Award of Tsinghua University(2021)
+- Comprehensive Excellent Award of Tsinghua University
+- Outstanding academic Award of Tsinghua University
+- Excellent Social Work Award of Tsinghua University
+
 
 
 
