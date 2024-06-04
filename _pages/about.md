@@ -21,9 +21,9 @@ Education
 
 Awards & Honors
 ======
-- Comprehensive Excellent Award of Tsinghua University
-- Outstanding academic Award of Tsinghua University
-- Excellent Social Work Award of Tsinghua University
+- Comprehensive Excellent Award of Tsinghua University (2023)
+- Outstanding academic Award of Tsinghua University (2023)
+- Excellent Social Work Award of Tsinghua University (2021, 2022)
 
 
 
