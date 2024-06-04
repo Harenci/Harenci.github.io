@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-I'm currently a Ph.D. Student in Computer Science at Peking University, advised by [Minghui Zhou](https://minghuizhou.github.io/). Before this, I graduated from Tsinghua University in June 2024 and earned my Bachelor's degree in Automation. I'm interested in looking into the process of software development and explore fancy ways to simplify it, as well as comprehensively understanding the complex relationships between developers(humans). Roughly speaking, my research interest includes open source digital sociology, AI4SE, etc.
+I'm currently a Ph.D. Student in Computer Science at Peking University, advised by [Minghui Zhou](https://minghuizhou.github.io/). Before this, I graduated from Tsinghua University in June 2024 and earned my Bachelor's degree in Automation. I'm interested in looking into the process of software development and explore fancy ways to improve it, as well as comprehensively understanding the complex relationships between developers(humans). Roughly speaking, my research interest includes open source digital sociology, computational social science, AI for SE, etc.
 
 
 Education
