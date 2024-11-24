@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Harenci.github.io/sitemap.xml
+Sitemap: https://hz-ye.github.io/sitemap.xml
