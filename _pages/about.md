@@ -9,7 +9,7 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>hzye at stu dot pku dot edu dot cn</p>
+    # <p>hzye@stu.pku.edu.cn</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
